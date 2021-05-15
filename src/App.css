@@ -1,0 +1,24 @@
+button{
+    border-radius: 8px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    padding: 11px;
+    width: 160px;
+    transition: all 0.5s;
+    margin: 6px;
+}
+.div1{
+    text-align: center;
+    background-color: #EFE2BA; 
+    height: 740px;
+}
+h2{
+   color:royalblue;
+}
+hr{
+   background-color: royalblue;
+    height: 3px;
+}

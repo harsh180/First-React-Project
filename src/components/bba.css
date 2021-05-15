@@ -1,0 +1,142 @@
+.bba{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 5px 5px;
+    background-color:#EFE2BA;
+    padding: 10px;
+      justify-content: space-around;
+      align-content: space-evenly;
+      
+}
+.bba1{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba2{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba3{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba4
+{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba5{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba6{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba7{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba8
+{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba9{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.bba10{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}

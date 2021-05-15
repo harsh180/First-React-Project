@@ -1,0 +1,19 @@
+.aiit{
+    background-color: #EFE2BA;
+    height: 720px;
+}
+.searchbox{
+    width: 250px;
+    height: 60px;
+    background-color: rgb(235, 151, 78);
+    justify-content: center;
+    text-size-adjust: 40px;
+}
+.div1{
+    display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+
+  
+}

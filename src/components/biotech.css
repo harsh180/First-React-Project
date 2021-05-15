@@ -1,0 +1,192 @@
+.biotech{
+    display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 5px 5px;
+  background-color:#EFE2BA;
+  padding: 10px;
+    justify-content: space-around;
+    align-content: space-evenly;
+    grid-row: 1/span 4;
+}
+.bio1{
+    
+        border-radius: 5px;
+        background-color:#FF6D2D;
+        border: solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 14px;
+        width: 150px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 3px;
+        border-radius: 6px;
+}
+.bio2{
+    
+    border-radius: 6px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio3{
+    
+    border-radius: 6px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio4{
+    
+    border-radius: 6px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio5{
+    
+    border-radius: 6px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio6{
+    border-radius: 6px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio7{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio8{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio9{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio10{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio11{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio12{
+    
+    border-radius: 6px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio13{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}
+.bio14{
+    
+    border-radius: 6px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+}

@@ -1,0 +1,114 @@
+.phys{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 5px 5px;
+    background-color:#EFE2BA;
+    padding: 10px;
+      justify-content: space-around;
+      align-content: space-evenly;
+      height: 740px;
+}
+.phy1{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy2{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy3{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy4{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy5{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy6{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy7{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}
+.phy8{
+    border-radius: 5px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 6px;
+}

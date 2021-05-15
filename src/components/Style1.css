@@ -1,0 +1,175 @@
+
+
+.butt{
+    border-radius: 8px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    padding: 25px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+    
+    
+}
+.butt2
+{
+    border-radius: 8px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    padding: 25px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.butt3{
+    border-radius: 8px;
+    background-color:#FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 25px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.butt4 {
+        border-radius: 8px;
+        background-color: #FF6D2D;
+        border:solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 30px;
+        padding: 25px;
+        width: 250px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+}
+.butt5{
+        border-radius: 8px;
+        background-color: #FF6D2D;
+        border:solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 30px;
+        padding: 25px;
+        width: 250px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+}
+.butt6{
+        border-radius: 8px;
+        background-color:#FF6D2D;
+        border: solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 30px;
+        padding: 25px;
+        width: 250px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+}
+.butt7
+{
+        border-radius: 8px;
+        background-color: #FF6D2D;
+        border:solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 30px;
+        padding: 25px;
+        width: 250px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+}
+.butt8{
+        border-radius: 8px;
+        background-color: #FF6D2D;
+        border: solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 28px;
+        padding: 25px;
+        width: 250px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+}
+.butt9{
+        border-radius: 8px;
+        background-color: #FF6D2D;
+        border: solid;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 28px;
+        padding: 25px;
+        width: 250px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 10px;
+}
+.butt10{
+    border-radius: 8px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 25px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.butt11{
+    border-radius: 8px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 25px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.butt12{
+    border-radius: 8px;
+    background-color: #FF6D2D;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 25px;
+    width: 250px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+}
+.CSS-grid{
+        display:flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        background-color: #EFE2BA;
+        align-content: space-around;
+        height: 720px;
+
+
+}
+.navbar{
+        background-color: slateblue;
+}

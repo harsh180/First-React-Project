@@ -1,0 +1,13 @@
+.div1{
+    background-color:  #EFE2BA;
+}
+.div3{
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    background-color: #EFE2BA;
+    align-content: space-around;
+}
+.button{
+    height: 70px;
+}
